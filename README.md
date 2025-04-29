@@ -1,6 +1,4 @@
-<!-- Please update value in the {}  -->
-
-<h1 align="center">{Your project name} | devChallenges</h1>
+# Flip The Coin | devChallenges
 
 <div align="center">
    Solution for a challenge <a href="https://devchallenges.io/challenge/flip-the-coin" target="_blank">Flip The Coin</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
@@ -65,7 +63,6 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - [React](https://reactjs.org/)
 - [Vue.js](https://vuejs.org/)
 - [Tailwind](https://tailwindcss.com/)
