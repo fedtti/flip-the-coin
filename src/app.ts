@@ -17,7 +17,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
  * @returns {void}
  */
 const flipCoin = (): void => {
-  const result = Math.random() < 0.5 ? 'Heads' : 'Tails';
+  const result: string = Math.random() < 0.5 ? 'Heads' : 'Tails';
   document.querySelector<HTMLImageElement>('#side')!.src = `/img/${result.toLowerCase()}.svg?inline`;
   document.querySelector<HTMLImageElement>('#side')!.alt = `Coin’s ${result}`;
   document.querySelector<HTMLImageElement>('#label')!.textContent = result;
