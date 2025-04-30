@@ -1,4 +1,4 @@
-@import 'https://fonts.googleapis.com/css2?family=Poppins:wght@700;900&display=swap';
+@import 'https://fonts.googleapis.com/css2?family=Kanit:wght@600&display=swap';
 
 :root {
   text-rendering: optimizeLegibility;
@@ -23,8 +23,8 @@ html {
 
 body {
   background-color: #404a65;
-  color: #ecedf1;
-  font: normal normal 700 1rem/1.5 'Poppins', sans-serif;
+  color: #ecedf0;
+  font: normal normal 600 1rem/1.5 'Kanit', sans-serif;
 }
 
 #app {
@@ -37,13 +37,12 @@ body {
 
   #contents {
     margin: 0 auto;
-    max-width: 41.2rem;
     padding: 2.5rem;
     text-align: center;
 
     #flip {
       appearance: none;
-      background-color: #206fb1;
+      background-color: #1f6fb0;
       border: none;
       border-radius: 0.8rem;
       box-shadow: 0 0.4rem 0 0 #23649b;
@@ -59,19 +58,16 @@ body {
     }
 
     h1 {
-      font-size: 2.8rem;
-      font-weight: 900;
+      font-size: 6.4rem;
       margin-bottom: 2rem;
-      text-shadow: 0.2rem 0.2rem 0 #35383f,
-                   -0.2rem 0.2rem 0 #35383f,
-                   -0.2rem -0.2rem 0 #35383f,
-                   0.2rem -0.2rem 0 #35383f;
-      -webkit-text-stroke-width: 0.15rem;
-      -webkit-text-stroke-color: #35383f;
+      text-shadow: 0.4rem 0.4rem 0 #35383f,
+                  -0.4rem 0.4rem 0 #35383f,
+                  0.4rem -0.4rem 0 #35383f,
+                  -0.4rem -0.4rem 0 #35383f;
     }
 
     p {
-      font-size: 1.6rem;
+      font-size: 2.4rem;
       line-height: 1.5;
       margin-bottom: 0.5rem;
     }
@@ -91,7 +87,7 @@ body {
       }
 
       #label {
-        font-size: 1.6rem;
+        font-size: 2rem;
         margin-bottom: 5rem;
       }
     }
