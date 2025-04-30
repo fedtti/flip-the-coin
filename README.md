@@ -1,16 +1,16 @@
 # Flip The Coin | devChallenges
 
 <div align="center">
-   Solution for a challenge <a href="https://devchallenges.io/challenge/flip-the-coin" target="_blank">Flip The Coin</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
+   Solution for a challenge [Flip The Coin](https://devchallenges.io/challenge/flip-the-coin) from [devChallenges.io](http://devchallenges.io).
 </div>
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="https://federicomoretti.it/flip-the-coin">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="">
       Solution
     </a>
     <span> | </span>
