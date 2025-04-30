@@ -1,7 +1,7 @@
 # Flip The Coin | devChallenges
 
 <div align="center">
-   Solution for a challenge [Flip The Coin](https://devchallenges.io/challenge/flip-the-coin) from [devChallenges.io](http://devchallenges.io).
+   Solution for a challenge <a href="" target="_blank" rel="noopener noreferrer">Flip The Coin</a> from <a href="http://devchallenges.io" target="_blank" rel="noopener noreferrer">devChallenges.io</a>.
 </div>
 
 <div align="center">
