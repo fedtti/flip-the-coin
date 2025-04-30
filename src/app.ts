@@ -5,7 +5,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
     <h1>Flip the coin</h1>
     <p>Press the coin or the button to flip the coin</p>
     <figure>
-      <img id="side" src="/img/heads.svg?inline" alt="Coin’s Heads">
+      <img id="side" src="${import.meta.env.BASE_URL}img/heads.svg?inline" alt="Coin’s Heads">
       <figcaption id="label">Heads</figcaption>
     </figure>
     <button id="flip">Random</button>
