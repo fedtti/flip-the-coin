@@ -6,15 +6,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://federicomoretti.it/flip-the-coin" target="_blank">
+    <a href="https://federicomoretti.it/flip-the-coin" target="_blank" rel="noopener noreferrer">
       Demo
     </a>
     <span> | </span>
-    <a href="" target="_blank">
+    <a href="https://devchallenges.io/solution/49528" target="_blank" rel="noopener noreferrer">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenge/flip-the-coin" target="_blank">
+    <a href="https://devchallenges.io/challenge/flip-the-coin" target="_blank" rel="noopener noreferrer">
       Challenge
     </a>
   </h3>
